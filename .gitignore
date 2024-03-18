@@ -1,0 +1,3 @@
+dist/
+build/
+django_testcase_generator.egg-info/
