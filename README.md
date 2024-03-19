@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Automatic Test Generation**: Automatically creates test case boilerplates for both class-based views (CBVs) and function-based views (FBVs).
+- **Automatic Test Generation**: Automatically creates test case boilerplates for  class-based views (CBVs) that has serializer.
 - **Customizable**: Flexible test template customization options to fit a variety of testing frameworks and preferences.
 - **Ease of Use**: Simplifies the test creation process, making it accessible and straightforward for developers at any skill level.
 
