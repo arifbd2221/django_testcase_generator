@@ -1,5 +1,7 @@
 # Django Testcase Generator
 
+Checkout pypi: https://pypi.org/project/django-testcase-generator/
+
 `django-testcase-generator` is a powerful tool for Django projects, designed to automatically generate test cases for views by analyzing URL configurations. Its goal is to speed up the initial setup of tests, providing developers with a solid foundation for building comprehensive test suites.
 
 ## Features
